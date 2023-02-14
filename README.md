@@ -1,4 +1,4 @@
-### 👋 I'm JNylson welcome to my GitHub
+### 👋 Welcome to my GitHub profile
 
 - 🔭 I’m currently working some projects
 - 👯 I collaborate translations of some software
